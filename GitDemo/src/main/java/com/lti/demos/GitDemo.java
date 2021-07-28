@@ -1,4 +1,6 @@
-public class User {
+package com.lti.demos;
+
+public class GitDemo {
 	
 	public static void main(String[] args) {
 		
